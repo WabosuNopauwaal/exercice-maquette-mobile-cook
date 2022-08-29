@@ -28,8 +28,70 @@ body {
   line-height: 1.5rem;
 }
 
+nav {
+  font-family: Libre Franklin;
+  font-weight: 400px;
+  font-size: 16px;
+}
+
+nav,
+a {
+  text-decoration: none;
+}
+
+.titre-rouge {
+  font-family: Libre Franklin;
+  font-weight: 700px;
+  font-size: 11px;
+  color: white;
+}
+
+h1 {
+  font-family: Sort Mill Goudy;
+  font-weight: 400px;
+  font-size: 24px;
+}
+
+p {
+  font-family: Sort Mill Goudy;
+  font-weight: 400px;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: Libre Franklin;
+  font-weight: 700px;
+  font-size: 16px;
+}
+
+h3 {
+  font-family: Sort Mill Goudy;
+  font-weight: 700px;
+  font-size: 20px;
+}
+
+.figcaption {
+  font-family: Libre Franklin;
+  font-weight: 400px;
+  font-size: 20px;
+}
+
 a {
   color: inherit;
+}
+
+footer,
+p {
+  font-family: Sort Mill Goudy;
+  font-weight: 400px;
+  font-size: 20px;
+}
+
+footer,
+li {
+  font-family: Libre Franklin;
+  font-weight: 400px;
+  font-size: 16px;
 }
 
 img,
