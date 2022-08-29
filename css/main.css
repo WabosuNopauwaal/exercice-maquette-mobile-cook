@@ -17,6 +17,10 @@
 
 html {
   font-size: 16px;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: auto;
 }
 
 body {
@@ -29,69 +33,83 @@ body {
 }
 
 nav {
-  font-family: Libre Franklin;
+  font-family: "Libre Franklin", sans-serif;
   font-weight: 400px;
   font-size: 16px;
+  text-align: center;
 }
 
-nav,
-a {
-  text-decoration: none;
+main {
+  text-align: center;
 }
 
 .titre-rouge {
-  font-family: Libre Franklin;
+  font-family: "Libre Franklin", sans-serif;
   font-weight: 700px;
   font-size: 11px;
   color: white;
+  background: #e62a1b;
+  border-radius: 50px;
 }
 
 h1 {
-  font-family: Sort Mill Goudy;
+  font-family: "Sort Mill Goudy", serif;
   font-weight: 400px;
   font-size: 24px;
 }
 
 p {
-  font-family: Sort Mill Goudy;
+  font-family: "Sort Mill Goudy", serif;
   font-weight: 400px;
   font-size: 16px;
 }
 
 h2 {
-  font-family: Libre Franklin;
+  font-family: "Libre Franklin", sans-serif;
   font-weight: 700px;
   font-size: 16px;
 }
 
 h3 {
-  font-family: Sort Mill Goudy;
+  font-family: "Sort Mill Goudy", serif;
   font-weight: 700px;
   font-size: 20px;
 }
 
 .figcaption {
-  font-family: Libre Franklin;
+  font-family: "Libre Franklin", sans-serif;
   font-weight: 400px;
   font-size: 20px;
+  color: black;
+  background: white;
 }
 
 a {
   color: inherit;
 }
 
+div {
+  background: #ebede7;
+}
+
+footer {
+  color: white;
+  background: black;
+}
+
 footer,
 p {
-  font-family: Sort Mill Goudy;
+  font-family: "Sort Mill Goudy", serif;
   font-weight: 400px;
   font-size: 20px;
 }
 
 footer,
 li {
-  font-family: Libre Franklin;
+  font-family: "Libre Franklin", sans-serif;
   font-weight: 400px;
   font-size: 16px;
+  text-decoration: none;
 }
 
 img,
