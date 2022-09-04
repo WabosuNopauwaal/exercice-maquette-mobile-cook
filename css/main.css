@@ -37,6 +37,7 @@ nav {
   font-weight: 400px;
   font-size: 16px;
   text-align: center;
+  margin: 40px 140px;
 }
 
 main {
@@ -50,38 +51,38 @@ main {
   color: white;
   background: #e62a1b;
   border-radius: 50px;
+  margin-top: 28px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 h1 {
   font-family: "Sort Mill Goudy", serif;
   font-weight: 400px;
   font-size: 24px;
+  margin: 28px 65px 35px 65px;
 }
 
 p {
   font-family: "Sort Mill Goudy", serif;
   font-weight: 400px;
   font-size: 16px;
+  margin-right: 41px;
+  margin-left: 41px;
 }
 
 h2 {
   font-family: "Libre Franklin", sans-serif;
   font-weight: 700px;
   font-size: 16px;
+  margin: 44px 212px 26px 212px;
 }
 
 h3 {
   font-family: "Sort Mill Goudy", serif;
   font-weight: 700px;
   font-size: 20px;
-}
-
-.figcaption {
-  font-family: "Libre Franklin", sans-serif;
-  font-weight: 400px;
-  font-size: 20px;
-  color: black;
-  background: white;
+  margin-right: 200px;
 }
 
 a {
@@ -92,9 +93,19 @@ div {
   background: #ebede7;
 }
 
+.figcaption {
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 400px;
+  font-size: 20px;
+  color: black;
+  background: white;
+  padding: 44px 57px;
+}
+
 footer {
   color: white;
   background: black;
+  padding: 61px 350px 57px 32px;
 }
 
 footer,
